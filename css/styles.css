@@ -1,0 +1,44 @@
+body{
+    background: black;
+}
+.post{
+    background: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 80px;
+}
+.header{
+    background: white;
+    display: flex;
+}
+.html5{
+    padding: 10px;
+    font-size: 50px;
+}
+
+.opciones{
+    display: flex;
+    font-size: 20px;
+    margin-left: 340px;
+    margin-top: 15px;
+
+}
+img{
+    align-items: start;
+    width: 80%;
+    height: 80%;
+    margin: 50px;
+    
+}
+.likes{
+    padding: 20px;
+    margin-bottom: 80px;
+}
+.icono{
+    display: flex;
+}
+.guardar{
+    margin-left: 430px;
+}
